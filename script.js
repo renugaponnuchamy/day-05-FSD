@@ -1,5 +1,5 @@
 
-    // Day 06 :OOPS TASK
+    // Day 05 :OOPS TASK
     // Write a “person” class to hold all the details.
     class Person{
        
