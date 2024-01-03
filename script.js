@@ -1,8 +1,4 @@
-var request=new XMLHttpRequest();
-request.open("GET","https://restcountries.com/v2/all");
-request.send();
-request.onload=function(){
-    var result=JSON.parse(request.response);
+
     // Day 06 :OOPS TASK
     // Write a “person” class to hold all the details.
     class Person{
